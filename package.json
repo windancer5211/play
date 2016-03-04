@@ -1,6 +1,6 @@
 {
   "name": "play_npm_test",
-  "version": "1.0.12",
+  "version": "1.0.13",
   "description": "this is a npm publis test",
   "main": "main.js",
   "scripts": {
